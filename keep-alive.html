@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Keep Alive</title>
+    <script>
+        // Periodically send requests to keep the connection alive
+        setInterval(() => {
+            fetch('/keep-alive');
+        }, 30000); // Request every 30 seconds
+    </script>
+</head>
+<body>
+    <p>Keep-alive page</p>
+</body>
+</html>
