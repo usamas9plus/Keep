@@ -1,0 +1,24 @@
+{
+    "status": "success",
+    "subscription_valid": true,
+    "client": {
+        "id": 1,
+        "api_key": "0d1a5e45-7af6c6c7-b4c649dc-b02daa7d",
+        "name": "@AA 1 ID: 120234393",
+        "categories": [
+            "algeria.blsspainglobal.com",
+            "blsspainmorocco.net",
+            "morocco.blsportugal.com",
+            "appointment.thespainvisa.com",
+            "appointment.theitalyvisa.com",
+            "mauritania.blsspainglobal.com",
+            "GLOBAL"
+        ],
+        "subscription_start": "2025-08-21",
+        "subscription_end": "2028-02-17",
+        "price_paid": "0",
+        "currency": "DZD",
+        "bot_version": "V5",
+        "status_label": "ACTIVE"
+    }
+}
